@@ -16,7 +16,7 @@ function Home() {
             <div className="row justify-content-center w-100">
                 <img data-aos="slide-right" className="w-25 col-lg-5 col-sm-10 d-block mx-auto border border-5 rounded rounded-circle" src={logo} alt="logo" />
                 <div data-aos="slide-left" className="col-lg-5 col-sm-10 mx-auto my-auto">
-                    <h1>Journalism club of VNRVJIET</h1>
+                    <h1 className="text-center">Journalism club of VNRVJIET</h1>
                 </div>
             </div>
 
